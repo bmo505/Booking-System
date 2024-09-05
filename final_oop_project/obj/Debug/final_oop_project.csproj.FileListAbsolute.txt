@@ -1,0 +1,12 @@
+c:\users\bilal\documents\visual studio 2012\Projects\final_oop_project\final_oop_project\bin\Debug\final_oop_project.exe.config
+c:\users\bilal\documents\visual studio 2012\Projects\final_oop_project\final_oop_project\bin\Debug\final_oop_project.exe
+c:\users\bilal\documents\visual studio 2012\Projects\final_oop_project\final_oop_project\bin\Debug\final_oop_project.pdb
+c:\users\bilal\documents\visual studio 2012\Projects\final_oop_project\final_oop_project\obj\Debug\final_oop_project.exe
+c:\users\bilal\documents\visual studio 2012\Projects\final_oop_project\final_oop_project\obj\Debug\final_oop_project.pdb
+D:\oop course\sheets\final_oop_project\final_oop_project\bin\Debug\final_oop_project.exe.config
+D:\oop course\sheets\final_oop_project\final_oop_project\obj\Debug\final_oop_project.exe
+D:\oop course\sheets\final_oop_project\final_oop_project\obj\Debug\final_oop_project.pdb
+D:\oop course\sheets\final_oop_project\final_oop_project\bin\Debug\final_oop_project.exe
+D:\oop course\sheets\final_oop_project\final_oop_project\bin\Debug\final_oop_project.pdb
+D:\oop course\sheets\final_oop_project\final_oop_project\obj\Debug\final_oop_project.csproj.AssemblyReference.cache
+D:\oop course\sheets\final_oop_project\final_oop_project\obj\Debug\final_oop_project.csproj.CoreCompileInputs.cache
